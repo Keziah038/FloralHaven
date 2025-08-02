@@ -40,9 +40,7 @@ floral-haven/
 │ ├── gallery/ # Gallery images
 │ └── flowers/ # Product images
 ├── README.md # Project documentation
-└── LICENSE # License file
 
-yaml
 Copy
 Edit
 
